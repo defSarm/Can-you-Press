@@ -1,0 +1,17 @@
+#000
+#442E12
+#262741
+#BE860E
+#8F6407
+#FACB4B
+#D9D9D9
+
+
+boss level symbols [and its order]
+𓅪
+x
+♚
+o
+★
++
+≛
